@@ -688,6 +688,58 @@ h6 {
   color: #8a87b6;
 }
 
+/*  WHEN SECTION START */
+#when {
+  padding: 60px 0;
+  background: #f5f8fd;
+}
+
+#when .why-us-content .features {
+  margin: 0 0 15px 0;
+  padding: 0;
+  transition: 0.3s ease-in-out;
+}
+
+#when .why-us-content .features i {
+  font-size: 36px;
+  float: left;
+}
+
+#when .why-us-content .features h4 {
+  font-size: 24px;
+  font-weight: 600;
+  margin-left: 56px;
+  color: #413e66;
+  margin-bottom: 5px;
+}
+
+#when .why-us-content .features p {
+  font-size: 16px;
+  margin-left: 56px;
+  color: #555186;
+}
+
+#when .counters {
+  padding-top: 40px;
+}
+
+#when .counters span {
+  font-family: "Montserrat", sans-serif;
+  font-weight: bold;
+  font-size: 48px;
+  display: block;
+  color: #555186;
+}
+
+#when .counters p {
+  padding: 0;
+  margin: 0 0 20px 0;
+  font-family: "Montserrat", sans-serif;
+  font-size: 14px;
+  color: #8a87b6;
+}
+/*  WHEN SECTION END */
+
 /* Call To Action Section
 --------------------------------*/
 
