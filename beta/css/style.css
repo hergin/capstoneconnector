@@ -1001,11 +1001,11 @@ h6 {
 /* Features Section
 --------------------------------*/
 
-#features {
+#requirements {
   padding: 80px 0;
 }
 
-#features h4 {
+#requirements h4 {
   font-weight: 600;
   font-size: 24px;
 }
